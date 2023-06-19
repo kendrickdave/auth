@@ -1,0 +1,109 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "Admin user",
+      "password": "Asogba123$",
+      "email": "asogba@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "admin2",
+      "name": "asogba abiodun",
+      "password": "Asogba123$",
+      "email": "asogba123@gmail.com",
+      "gender": "female",
+      "role": "staff",
+      "isactive": true
+    },
+    {
+      "id": "titi123",
+      "name": "titilayo david",
+      "password": "Asogba123$",
+      "email": "titilayo@gmail.com",
+      "gender": "female",
+      "role": "",
+      "isactive": true
+    },
+    {
+      "id": "admin",
+      "name": "Admin user",
+      "password": "Asogba123$",
+      "email": "asogba@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": true
+    },
+    {
+      "username": "admin2",
+      "password": "Asogba123$",
+      "id": "61b_ixd"
+    },
+    {
+      "username": "admin2",
+      "password": "Asogba123$",
+      "id": "6O8KR18"
+    },
+    {
+      "username": "admin2",
+      "password": "Asogba123$",
+      "id": "VlIit6-"
+    },
+    {
+      "id": "kendrick",
+      "name": "kendrick",
+      "password": "Kendrick$123",
+      "email": "kendrick@gmail.com",
+      "gender": "male",
+      "role": "staff",
+      "isactive": true
+    },
+    {
+      "username": "admin",
+      "password": "Asogba123$",
+      "id": "IheVXtO"
+    },
+    {
+      "username": "kendrick",
+      "password": "Kendrick$123",
+      "id": "H7Es7Be"
+    },
+    {
+      "username": "admin",
+      "password": "Asogba123$",
+      "id": "d0V_ZHw"
+    },
+    {
+      "username": "kendrick",
+      "password": "Kendrick$123",
+      "id": "9IzrtrN"
+    },
+    {
+      "username": "ttyj",
+      "password": "uhbkj",
+      "id": "zMTmTCk"
+    },
+    {
+      "username": "ttyj",
+      "password": "uhbkj",
+      "id": "MMdzV0A"
+    },
+    {
+      "username": "admin",
+      "password": "Asogba123$",
+      "id": "yonPKl2"
+    }
+  ],
+  "role": [
+    {
+      "code": "staff",
+      "name": "staff"
+    },
+    {
+      "code": "quality",
+      "name": "Quality"
+    }
+  ]
+}

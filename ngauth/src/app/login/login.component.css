@@ -1,0 +1,9 @@
+.example-full-width {
+    display: flex;
+    flex-direction: column;
+    align-items: 100%;
+  }
+
+.down a{
+    margin-left: 20px;
+   }
